@@ -1,3 +1,3 @@
 #pragma once
 
-#define EE_HANDS
+#define SPLIT_HAND_PIN B6
